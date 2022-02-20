@@ -1,1 +1,1 @@
-## Skripts in Python zum Lernen
+## Skripte in Python zum Lernen
