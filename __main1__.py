@@ -20,7 +20,4 @@ question = input('Bitte Antwort angeben!')
 if input() != 'yes':
     print('Dann feier schön deinen Geburtstag mit deiner Familie! :)')
 
-else:
-    print('')
-
 print('Auf Wiedersehen!')
